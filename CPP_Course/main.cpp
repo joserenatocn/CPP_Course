@@ -7,8 +7,13 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return EXIT_SUCCESS;
+using namespace std;
+
+int main()
+{
+    cout << "Hello, World!" << endl;
+    cout << "My name is Jose Renato" << endl;
+    cout << "I'm learning C++" << endl;
+    cout << "I really like programming" << endl;
+    return 0;
 }
