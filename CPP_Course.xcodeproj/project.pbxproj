@@ -19,7 +19,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0AA2DACA2ECCB725003C54BB /* CPP_Course */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPP_Course; sourceTree = BUILT_PRODUCTS_DIR; };
+		0AA2DACA2ECCB725003C54BB /* CPP_Course */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = CPP_Course; path = /Users/joserenato/Desktop/CPP_Course/build/Debug/CPP_Course; sourceTree = "<absolute>"; };
+		0AA2DAD42ECCBEF6003C54BB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -45,16 +46,8 @@
 			isa = PBXGroup;
 			children = (
 				0AA2DACC2ECCB725003C54BB /* CPP_Course */,
-				0AA2DACB2ECCB725003C54BB /* Products */,
+				0AA2DAD42ECCBEF6003C54BB /* README.md */,
 			);
-			sourceTree = "<group>";
-		};
-		0AA2DACB2ECCB725003C54BB /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				0AA2DACA2ECCB725003C54BB /* CPP_Course */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -106,7 +99,7 @@
 			mainGroup = 0AA2DAC12ECCB725003C54BB;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 0AA2DACB2ECCB725003C54BB /* Products */;
+			productRefGroup = 0AA2DAC12ECCB725003C54BB;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
