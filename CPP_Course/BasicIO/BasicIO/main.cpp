@@ -17,7 +17,9 @@ int main()
     std::cout << "Enter a double: " << std::endl;
     std::cin >> num3;
     std::cout << "The integer is " << num1 << std::endl;
+    std::cout << "Size of integer: " << sizeof(num1) << std::endl;
     std::cout << "The double is " << num3 << std::endl;
+    std::cout << "Size of integer: " << sizeof(num3) << std::endl;
     
     return 0;
 }
